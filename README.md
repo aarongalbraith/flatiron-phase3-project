@@ -103,17 +103,24 @@ As all of the models delivered statistics in roughly the same range (recall: 74.
 Our recommendations are two-fold.
 
 1. Insofar as the Government of Tanzania has the power of choice, it should
-a. install wells in areas that have sufficient water supply
-b. favor wells of *handpump* or *communal standpipe* waterpoint type
-c. delegate well installation to community workers or the DWE*
+
+    a. install wells in areas that have sufficient water supply
+
+    b. favor wells of *handpump* or *communal standpipe* waterpoint type
+
+    c. delegate well installation to community workers or the DWE*
 
 *We were unable to determine what entites the *DWE* or *RWE* were.
 
 2. After wells have been installed, the government should allocate resources to monitor
-a. wells in areas with low water quantity
-b. wells of the "commual standpipe *multiple*" type
-c. wells that were installed by the RWE or by the government itself
-d. wells that were installed prior to 1985
+
+    a. wells in areas with low water quantity
+
+    b. wells of the "commual standpipe *multiple*" type
+
+    c. wells that were installed by the RWE or by the government itself
+
+    d. wells that were installed prior to 1985
 
 ## Further Inquiry
 
