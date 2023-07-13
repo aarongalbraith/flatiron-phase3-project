@@ -55,7 +55,7 @@ Here is the performance by waterpoint type.
 
 Here is the performance by installer.
 
-![well performance by installer](images/installer.
+![well performance by installer](images/installer.png)
 
 ##### Year of Construction
 
@@ -116,6 +116,10 @@ c. wells that were installed by the RWE or by the government itself
 d. wells that were installed prior to 1985
 
 ## Further Inquiry
+
+We would generally like to see better data gathering and fewer missing or uknown values. Most of all it would help to have more concrete data about the features most relevant to our results: water quantity, waterpoint type, and installer identity.
+
+We could perform further analysis if we knew the cost and availability of certain options. For example, it would be helpful to know what the typical costs of the various waterpoint types are. In that case, we could advise which options are most effective *per dollar spent*.
 
 ## Links to PDFs
 
